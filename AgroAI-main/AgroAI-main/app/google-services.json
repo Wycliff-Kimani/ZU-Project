@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511354404484",
+    "project_id": "cropscan-73a15",
+    "storage_bucket": "cropscan-73a15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511354404484:android:7ba665c4d073b7cebe4cd1",
+        "android_client_info": {
+          "package_name": "com.mizzenmast.agroai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaM80dX8InGJ1kqyNxNguEvbVsLKfaHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
