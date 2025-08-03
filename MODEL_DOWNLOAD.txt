@@ -1,0 +1,10 @@
+Model File Download
+
+Due to GitHub's file size limitations, the AgroAI model (`plant_model_with_nonplant.tflite`) is hosted externally.
+
+ Download the model from the link below:
+
+LINK: https://drive.google.com/file/d/1JaSOwVq-m4undYzFl1XuMgBXH69QkQ1l/view?usp=sharing
+
+After downloading, place the file in your app’s model assets directory:
+/AgroAI/app/src/main/assets/model/
